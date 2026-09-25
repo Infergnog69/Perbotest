@@ -5,6 +5,6 @@ A small TypeScript playground for trying out [Perbo](https://github.com/perbostu
 Requires Node 22.18 or later (runs TypeScript directly, no build step).
 
 ```bash
-npm install
-npm test
+pnpm install
+pnpm test
 ```
